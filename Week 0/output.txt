@@ -1,0 +1,3 @@
+Type something: You said: "jianning"
+Type something else: You also said: "zhuang"
+What is your age? What is your name? Hello "jianning", age 8

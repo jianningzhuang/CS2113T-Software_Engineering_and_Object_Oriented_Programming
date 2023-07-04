@@ -1,0 +1,10 @@
+Food name: pizza, category: OTHER, expiry: 11-11-1234, stored in: OTHER, quantity: 5
+Food name: 111, category: OTHER, expiry: 11-11-1234, stored in: FREEZER, quantity: 3
+Food name: pizza1, category: OTHER, expiry: 16-04-2021, stored in: FREEZER, quantity: 3
+Food name: pizza2, category: OTHER, expiry: 15-04-2021, stored in: FREEZER, quantity: 3
+Food name: pizza-loc, category: OTHER, expiry: 15-04-2021, stored in: FREEZER, quantity: 3
+Food name: pizza3, category: OTHER, expiry: 28-02-2021, stored in: FREEZER, quantity: 9
+Food name: pizza4, category: OTHER, expiry: 12-11-1234, stored in: FREEZER, quantity: 10
+Food name: pizza5, category: FRUIT, expiry: 12-11-1234, stored in: FREEZER, quantity: 10
+Food name: pizza6, category: MEAT, expiry: 12-11-1234, stored in: FREEZER, quantity: 929121
+Food name: pizza8, category: OTHER, expiry: 16-08-2012, stored in: OTHER, quantity: 1000000

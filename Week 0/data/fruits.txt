@@ -1,0 +1,3 @@
+5 Apples
+3 Bananas
+6 Cherries
